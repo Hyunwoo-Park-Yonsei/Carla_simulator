@@ -13,7 +13,9 @@
   
 ![ex_screenshot1](./img/1.png)
 
-
+### Decision making & Control
+* With the detected lane, I've made the car to drive the center of the road.
+* The error between the center of the image and the center of the road has been reduced by P-control. 
 
 ## Limitations
 * The simulator got so slow when I started to use the camera sensor. So I couldn't progress the project further.
