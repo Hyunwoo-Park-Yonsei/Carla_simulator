@@ -23,7 +23,7 @@
 ## What I've learned
 * Implementing auto-pilot driving in the simulator wasn't easy. But during this project I've learned how to read and use the API references.
 * Reading and using those API references also made my programming skills improved. 
-* Python is a great language but slow one. So I've learned the necessity of a faster language that I can use.
+* Python is a great language but slow one. So I've learned the limitation of the Python and also the necessity of a faster language that I can use.
 
 
 
